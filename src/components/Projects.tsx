@@ -21,7 +21,7 @@ const Projects = () => {
       title: "Market Place",
       description: "Market place de para venda de produtos diversos",
       image: mktimg,
-      technologies: ["Next.js", "D3.js", "Python", "PostgreSQL"],
+      technologies: ["React", "Typescript", "SASS", "React Query", "API REST"],
       demoUrl: "https://market-place-ten-brown.vercel.app/",
       githubUrl: "https://github.com/ferreiraalan13/market-place",
     },
